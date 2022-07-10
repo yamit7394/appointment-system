@@ -1,0 +1,16 @@
+.brand-logo{
+    width:20%;
+}
+.navbar-homepage{
+    background-color: white !important;
+    
+}
+.navbar-homepage .nav-item{
+    padding-left: 10px;
+    padding-right: 10px; 
+}
+.navbar-homepage .nav-item:hover{
+    background-color: #dfc13f;
+    border-radius: 2px;
+    color: #fff !important;
+}
